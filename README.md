@@ -4,5 +4,5 @@ https://www.reddit.com/r/StableDiffusion/comments/1f93un3/onetrainer_flux_traini
 
 https://github.com/Nerogar/OneTrainer/wiki/Flux
 
-
+#Screenshots of Flux Lora training with OneTrainer
 https://www.reddit.com/r/StableDiffusion/comments/1fiszxb/onetrainer_settings_for_flux1_lora_and_dora/#lightbox
